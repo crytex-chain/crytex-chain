@@ -20,7 +20,7 @@ Crytex Chain aims to revolutionize the crypto industry by providing a secure, sc
 
 To get started with Crytex Chain, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Powerisinschool/crytex-chain.git`
+1. Clone the repository: `git clone https://github.com/crytex-chain/crytex-chain.git`
 
 2. Install the necessary dependencies: `npm install`
 
