@@ -22,11 +22,11 @@ To get started with Crytex Chain, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/crytex-chain/crytex-chain.git`
 
-2. Install the necessary dependencies: `npm install`
+2. Install the necessary dependencies: `...`
 
-3. Build the project: `npm run build`
+3. Build the project: `...`
 
-4. Start the Crytex Chain node: `npm run start`
+4. Start the Crytex Chain node: `...`
 
 5. Connect to the Crytex Chain network and begin exploring its features.
 
