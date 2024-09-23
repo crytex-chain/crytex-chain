@@ -19,6 +19,7 @@ public:
     std::string hash;
     std::vector<Transaction> transactions;
     int nonce;
+    std::string cachedHash;
 
     Block(int idx, std::string prevHash, std::vector<Transaction> txs);
 
