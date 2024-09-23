@@ -31,3 +31,11 @@ bool Blockchain::isChainValid() {
     }
     return true;
 }
+
+void Blockchain::adjustDifficulty() {
+    int adjustmentInterval = 3;
+    if (chain.size() % adjustmentInterval == 0) {
+        // Logic to adjust difficulty based on block times
+    }
+}
+

@@ -12,6 +12,11 @@ public:
 
     void generateKeys();
     Transaction createTransaction(std::string to, double amount);
+
+private:
+    std::string generatePrivateKey();
+    std::string derivePublicKey(std::string key);
+    std::string signTransaction(std::string privateKey, std::string amount);
 };
 
 #endif // WALLET_H
